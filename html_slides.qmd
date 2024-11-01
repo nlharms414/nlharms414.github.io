@@ -40,4 +40,4 @@ ggplot(dino, aes(x,y)) +
 
 ## CV Link
 
-Click here for the link to my CV
+Click here for my [CV](CV.pdf)
