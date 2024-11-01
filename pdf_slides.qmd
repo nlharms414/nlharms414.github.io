@@ -1,0 +1,46 @@
+---
+title: "Biography Slides"
+author: "Nicole Harms"
+format:
+  beamer:
+    keep-tex: true
+    theme: PaloAlto
+    colortheme: seahorse
+editor: visual
+---
+
+## About Me
+
+Here are a few fast facts about me:
+
+-   Hometown: Sterling, NE
+
+-   Birthday: November 3rd, 2000
+
+-   Current Program: Graduate Statistics
+
+-   Anticipated Graduation: May 2026
+
+## Favorite Animal
+
+![](seal.png)
+
+## Favorite Plot
+
+```{r}
+datasaurus <- read.csv('datasaurus.csv')
+library(tidyr)
+library(dplyr)
+dino <- datasaurus %>%
+  filter(dataset == "dino")
+
+library(ggplot2)
+ggplot(dino, aes(x,y)) +
+  geom_point(size = 2, color = "darkgreen") +
+  theme(panel.background = element_blank())
+  
+```
+
+## CV Link
+
+Click here for the link to my CV
