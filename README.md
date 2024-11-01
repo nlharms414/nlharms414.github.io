@@ -1,5 +1,4 @@
 # nlharms414.github.io
 
-Welcome! This repo contains my CV and biographical slides.
+Welcome! This repo contains my CV and [Biographical Slides](html_slides.html).
 
-[link text](html_slides.html)
