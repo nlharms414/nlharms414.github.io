@@ -1,7 +1,6 @@
 ---
 title: "About Me"
 author: "Nicole Harms"
-date: "2024-11-01"
 format: revealjs
 editor: visual
 ---
