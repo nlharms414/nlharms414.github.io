@@ -1,4 +1,6 @@
 # nlharms414.github.io
 
-Welcome! Click on the links to view my [CV](CV.pdf) and [Biographical Slides](pdf_slides.pdf).
+Welcome! Learn more about me by clicking the links below.
 
+-   [CV](CV.pdf)
+-   [Biographical Slides](pdf_slides.pdf).
