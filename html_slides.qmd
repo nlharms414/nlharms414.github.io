@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Get to Know Me!"
 author: "Nicole Harms"
 format: revealjs
 editor: visual

@@ -1,5 +1,5 @@
 ---
-title: "Biography Slides"
+title: "Get to Know Me!"
 author: "Nicole Harms"
 format:
   beamer:
