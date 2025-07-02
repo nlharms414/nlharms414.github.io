@@ -1,7 +1,10 @@
 ---
 title: "Get to Know Me!"
 author: "Nicole Harms"
-format: revealjs
+format: 
+  revealjs:
+    logo: dino.png
+    theme: moon
 editor: visual
 ---
 
@@ -11,7 +14,7 @@ Here are a few fast facts about me:
 
 -   Hometown: Sterling, NE
 
--   Birthday: November 3rd, 2000
+-   Birthday: November 3rd
 
 -   Current Program: Graduate Statistics
 
@@ -19,9 +22,11 @@ Here are a few fast facts about me:
 
 ## Favorite Animal
 
-![](seal.png)
+![Look at how cute they are!](seal.png)
 
 ## Favorite Plot
+
+<br>
 
 ```{r}
 datasaurus <- read.csv('datasaurus.csv')
@@ -37,6 +42,6 @@ ggplot(dino, aes(x,y)) +
   
 ```
 
-## CV Link
+## CV Link {.center}
 
 Click here for my [CV](CV.pdf).
